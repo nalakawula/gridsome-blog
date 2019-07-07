@@ -1,6 +1,6 @@
 ---
-title: A post with a cover image
-date: 2019-01-07
+title: Percobaan pertama
+date: 2019-07-07
 published: true
 tags: ['Markdown', 'Cover Image']
 series: false
